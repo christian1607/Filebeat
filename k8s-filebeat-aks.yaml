@@ -83,7 +83,7 @@ spec:
         ]
         env:
         - name: ELASTICSEARCH_HOST
-          value: <KIBANA_HOST>
+          value: <ELASTICSEARCH_HOST>
         - name: ELASTICSEARCH_PORT
           value: "9200"
         - name: ELASTICSEARCH_USERNAME
